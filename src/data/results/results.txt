@@ -1,0 +1,6 @@
+
+Baseline CNN Accuracy: 56.46%
+MobileNet Accuracy: 77.24%
+
+Baseline CNN Parameters: 25786186
+MobileNet Parameters: 3218250
